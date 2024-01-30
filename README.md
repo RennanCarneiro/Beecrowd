@@ -1,2 +1,2 @@
 # Beecrowd
-beecrowd questions performed in python
+beecrowd questions performed in python.
